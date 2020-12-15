@@ -117,8 +117,6 @@ and make this commit in GitKraken:
 
 <img src="img/4.19.commit_reorganized_files.png" width="700" align="center">
 
-**Exercises-Coming soon!**
-
 ## Next steps and Resources
 
 GitKraken offers an easy way of getting started with GitHub and version control. Depending on your use case it may be sufficient for your needs. If you are already familiar with using the Command Line then using Git on the Command Line is recommended. 
